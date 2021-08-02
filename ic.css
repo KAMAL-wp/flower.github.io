@@ -1,0 +1,25 @@
+img{
+	width:430px;
+	height:300px;
+	margin:10px;
+	transition: all 1s;
+}
+img:hover{
+	transform:scale(1.1);
+}
+.container{
+	flex-wrap:wrap;
+	justify-content: center;
+}
+h1{
+	text-align: center;
+	font-family:fantasy;
+	font-size:3em;
+	border-right: 2px solid pink;
+	border-left:2px solid pink;
+	border-bottom:2px solid pink;
+	border-top:2px solid pink;
+	width:400px;
+	text-align:center;
+	box-shadow: 4px 4px 5px 4px #88888;
+}
